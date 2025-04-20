@@ -86,6 +86,12 @@ The namespace exports the following:
 
 <!-- <toc pattern="*"> -->
 
+<div class="namespace-toc">
+
+-   <span class="signature">[`filled2dBy( N, clbk[, thisArg] )`][@stdlib/array/base/symmetric/filled2d-by]</span><span class="delimiter">: </span><span class="description">create a filled two-dimensional symmetric nested array according to a provided callback function.</span>
+
+</div>
+
 <!-- </toc> -->
 
 </section>
@@ -200,6 +206,12 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/array-base-symmetric/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/array-base-symmetric/main/LICENSE
+
+<!-- <toc-links> -->
+
+[@stdlib/array/base/symmetric/filled2d-by]: https://github.com/stdlib-js/array-base-symmetric-filled2d-by
+
+<!-- </toc-links> -->
 
 </section>
 
